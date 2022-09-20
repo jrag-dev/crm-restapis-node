@@ -2,9 +2,9 @@
   "name": "restapis",
   "version": "1.0.0",
   "engines": {
-    "node": "18.x",
+    "node": "16.x",
     "npm": "8.x"
-    },
+  },
   "description": "Api para un crm de clientes usando express js, mongodb y node js",
   "main": "index.js",
   "scripts": {
