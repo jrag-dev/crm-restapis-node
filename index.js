@@ -29,7 +29,6 @@ const corsOption = {
       //console.log(dominio.length + ':' + origin.length);
       return dominio === origin;
     });
-    console.log(existe);
     if (existe) {
       callback(null, true);
     } else {
